@@ -66,7 +66,7 @@ Este projeto foi feito como exercício passado pelo professor. Ele mostra consel
 <!-- MODELO DE AUTOR-->
 ## 👨🏽‍💻 Autor
 
-<a href="https://br.linkedin.com/in/Joao-vitorSantos08">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-santos-souza-844306360/">
 João Vitor Santos souza</a>
  <br />
  
